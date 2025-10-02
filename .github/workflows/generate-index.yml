@@ -1,4 +1,4 @@
-name: Generate Database Index
+name: Generate Database Index 
 on:
   push:
     branches:
